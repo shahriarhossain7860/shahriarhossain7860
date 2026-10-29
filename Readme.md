@@ -54,6 +54,14 @@ I enjoy solving real-world engineering challenges, integrating AI-powered featur
 - Continuously improve my software engineering and problem-solving skills.
 - Contribute to meaningful projects and collaborate with talented developers.
 
+  ### 🌐 Portfolio
+
+Explore my portfolio to learn more about my work, technical skills, and software development projects.
+
+🚀 **[Visit My Portfolio](https://sharif-portfolio-web.vercel.app)**
+
+   
+
 ### 🤝 Let's Connect
 
 I'm always interested in connecting with developers, collaborating on exciting projects, and exploring new opportunities in Flutter development.
